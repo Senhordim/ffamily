@@ -43,3 +43,7 @@ bower.json
 # Ignore Byebug command history file.
 
 .byebug_history
+
+# Dependency directories
+node_modules/
+jspm_packages/
